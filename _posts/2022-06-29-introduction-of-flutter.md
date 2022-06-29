@@ -2,9 +2,8 @@
 title: Flutter 개요
 author: Luke
 date: 2022-06-29 13:50:00 +0900
-catetories: [Flutter, Study]
+categories: [Flutter, Study]
 tags: [flutter]
-pin: true
 ---
 
 # Why Flutter?
